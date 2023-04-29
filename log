@@ -1,0 +1,12 @@
+total 12
+-rw-r--r--. 1 ec2-user ec2-user   0 Jan 23 07:01 1
+drwxr-xr-x. 2 ec2-user ec2-user   6 Jan 23 07:02 dir2
+drwxr-xr-x. 2 ec2-user ec2-user   6 Jan 23 07:07 dir1
+-rw-r--r--. 1 ec2-user ec2-user  52 Jan 23 14:37 file3
+-rwxrwxrwx. 1 ec2-user ec2-user 141 Jan 23 15:09 file-1
+-rw-r--r--. 1 ec2-user ec2-user 141 Jan 23 15:09 file2
+drwxr-xr-x. 2 ec2-user ec2-user   6 Jan 23 15:33 dir3
+-rw-r--r--. 1 ec2-user ec2-user   0 Jan 23 15:35 test1
+-rw-r--r--. 1 ec2-user ec2-user   0 Jan 23 16:10 log1
+this is linux class
+windows
